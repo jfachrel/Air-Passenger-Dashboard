@@ -11,5 +11,5 @@ This dashboard based on an open dataset from kaggle.com that contains an US Airl
 - **Server.R** : R script for processing user’s input and render it into output.
 - **ui.R** : User Interface (UI) for displaying input and output
 
-Check here for the dasboard :
+Check here to see the dasboard :
 https://jfachrel.shinyapps.io/Airline_Passenger/
