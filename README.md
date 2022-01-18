@@ -1,6 +1,6 @@
 # US Airline Passenger Satisfaction Dashboard
 
-This is an interactive dashboard powered by a shiny dashboard. Shiny is an open package from RStudio, which provides a web application framework to create interactive web applications called “Shiny apps”. The ease of working with Shiny has what popularized it among R users.
+This is an interactive dashboard powered by a shiny dashboard. Shiny is an open package from RStudio, which provides a web application framework to create interactive web applications called `Shiny apps`. the ease of working with Shiny has made it popular among R users.
 
 This dashboard based on an open dataset from kaggle.com that contains an US Airline passenger satisfaction survey. There are several factors in the questions in this survey such as Gender, Type of Customer, Age, etc. Using this dashboard will help you to perform an airline passenger satisfaction analysis and draw some assumptions easily. Because Shiny provides automatic reactive binding between input and output, so you can set the input as you wish and with ease.
 
